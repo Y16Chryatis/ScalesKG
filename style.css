@@ -10,6 +10,14 @@
     align-items: center;
 }
 
-.upcont {
+.menucont {
 
+}
+
+.notew{
+    height: 26vh;
+    width: 3vw;
+    border: 2px;
+    border-color: black;
+    background-color: white;
 }
